@@ -1,0 +1,2 @@
+model_checkpoint_path: "movielens_NCF_explicit_damping1e-06_avextol1e-03_embed16_maxinf1_wd1e-03-checkpoint-119999"
+all_model_checkpoint_paths: "movielens_NCF_explicit_damping1e-06_avextol1e-03_embed16_maxinf1_wd1e-03-checkpoint-119999"
